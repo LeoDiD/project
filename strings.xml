@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">practice app</string>
+    <string name="the_app_that_helps_you_to_be_wealthy">The app that helps you to be wealthy</string>
+    <string name="resumaker">Resumaker</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="log_in_to">Log In to</string>
+    <string name="resumaker1">Resumaker</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="new_to_resumaker">New to Resumaker?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_to">Sign In to</string>
+    <string name="resumaker2">Resumaker</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in1">Log In</string>
+</resources>
